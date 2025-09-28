@@ -13,6 +13,7 @@ Each folder (e.g. `01basicreact`, `02counter`, `03TailwindProps`, etc.) represen
 
 ## 📁 Project Structure
 
+```bash
 React-learnig/
 │
 ├── 01basicreact/            # Basic React setup & sample components
@@ -31,9 +32,7 @@ React-learnig/
 ├── to-do/                   # To-Do app (CRUD operations)
 └── README.md                # This file
 
-
-
----
+```
 
 ## 🧰 Technologies & Tools
 
